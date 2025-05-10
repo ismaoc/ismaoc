@@ -4,17 +4,17 @@ I'm a Front-End Developer with over **10 years of experience** building fast, re
 
 I’m currently exploring technologies like **Supabase** and modern **Node runtimes** in personal projects to stay sharp and keep learning.
 
-## 🔧 Tech I enjoy working with
+## 🔧 Stack
 
 - JavaScript / TypeScript
-- Vue 2 & 3, Vite, Pinia, UnoCSS, Tailwind CSS
+- Vue 2 & 3, Nuxt, Vite, Pinia, UnoCSS, Tailwind CSS
 - Supabase
 - Node.js
-- Git, CI/CD workflows
+- Git
 
 ## 🚀 Projects & Work
 
-I'm working on a few personal projects — coming soon!  
+I'm working on a few personal projects — coming soon!
 
 ## 🤝 Open to
 

@@ -10,7 +10,6 @@ I’m currently exploring technologies like **Supabase** and modern **Node runti
 - Vue 2 & 3, Nuxt, Vite, Pinia, UnoCSS, Tailwind CSS
 - Supabase
 - Node.js
-- Git
 
 ## 🚀 Projects & Work
 

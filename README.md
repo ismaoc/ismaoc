@@ -14,13 +14,12 @@ I’m currently exploring technologies like **Supabase** and modern **Node runti
 
 ## 🚀 Projects & Work
 
-I'm working on a few personal projects — coming soon!
+I'm working on a few personal projects to be released soon.
 
 ## 🤝 Open to
 
 - Freelance projects  
-- Remote collaborations  
-- Side projects with real-world impact
+- Remote collaborations
 
 ## 📫 Let’s connect
 

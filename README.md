@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ismael
 
-I'm a Front-End Developer with over **10 years of experience** building fast, reliable and user-focused interfaces using **JavaScript** and the **Vue ecosystem**.
+I'm a Front-End Developer with over **10 years of experience** building web interfaces, mostly with the Vue ecosystem. I've always been into UI and UX, and I enjoy creating smooth user experiences.
 
 I’m currently exploring technologies like **Supabase** and modern **Node runtimes** in personal projects to keep learning.
 

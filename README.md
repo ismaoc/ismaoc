@@ -9,7 +9,7 @@ I'm a Front-End Developer with over **10 years of experience** building web inte
 - Supabase
 - Node.js
 
-## 🚀 Projects & Work
+## 🚀 Projects
 
 I'm working on a few personal projects to be released soon.
 
@@ -18,6 +18,6 @@ I'm working on a few personal projects to be released soon.
 - Freelance projects  
 - Remote collaborations
 
-## 📫 Let’s connect
+## 📫 Contact
 
 - [LinkedIn](https://linkedin.com/)
